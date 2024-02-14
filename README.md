@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@esm/index.mjs';
+import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@v0.2.0-esm/index.mjs';
 ```
 
 #### Laplace( \[mu, b] )
@@ -308,7 +308,7 @@ y = laplace.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@esm/index.mjs';
+import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@v0.2.0-esm/index.mjs';
 
 var laplace = new Laplace( 2.0, 4.0 );
 
