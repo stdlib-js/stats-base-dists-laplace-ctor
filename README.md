@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-laplace-ctor/tags). For example,
+
+```javascript
 import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@v0.2.0-esm/index.mjs';
 ```
 
@@ -308,7 +313,7 @@ y = laplace.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@v0.2.0-esm/index.mjs';
+import Laplace from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-ctor@esm/index.mjs';
 
 var laplace = new Laplace( 2.0, 4.0 );
 
