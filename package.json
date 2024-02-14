@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-laplace-ctor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Laplace distribution constructor.",
   "license": "Apache-2.0",
   "author": {
@@ -37,27 +37,27 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-nan": "^0.1.1",
-    "@stdlib/assert-is-number": "^0.1.1",
-    "@stdlib/assert-is-positive-number": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-cdf": "^0.1.0",
-    "@stdlib/stats-base-dists-laplace-entropy": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-kurtosis": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-logcdf": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-logpdf": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-mean": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-median": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-mgf": "^0.1.0",
-    "@stdlib/stats-base-dists-laplace-mode": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-pdf": "^0.1.0",
-    "@stdlib/stats-base-dists-laplace-quantile": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-skewness": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-stdev": "^0.1.1",
-    "@stdlib/stats-base-dists-laplace-variance": "^0.1.1",
-    "@stdlib/string-format": "^0.1.1",
-    "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.1.1",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
-    "@stdlib/utils-define-property": "^0.1.1"
+    "@stdlib/assert-is-nan": "^0.2.0",
+    "@stdlib/assert-is-number": "^0.2.0",
+    "@stdlib/assert-is-positive-number": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-cdf": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-entropy": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-kurtosis": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-logcdf": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-logpdf": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-mean": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-median": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-mgf": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-mode": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-pdf": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-quantile": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-skewness": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-stdev": "^0.2.0",
+    "@stdlib/stats-base-dists-laplace-variance": "^0.2.0",
+    "@stdlib/string-format": "^0.2.0",
+    "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.0",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.0",
+    "@stdlib/utils-define-property": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-has-own-property": "^0.1.1",
@@ -68,7 +68,7 @@
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.1.2"
+    "@stdlib/bench-harness": "^0.2.0"
   },
   "engines": {
     "node": ">=0.10.0"
