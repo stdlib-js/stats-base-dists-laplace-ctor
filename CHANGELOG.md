@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2026-01-15)
 
 <section class="issues">
 
@@ -24,7 +24,9 @@ This release closes the following issue:
 
 <details>
 
--   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
+-   [`e5d2034`](https://github.com/stdlib-js/stdlib/commit/e5d203481f08ab2ecbdc7a4dbfe36462736cb7e7) - **bench:** update random value generation [(#9746)](https://github.com/stdlib-js/stdlib/pull/9746) _(by Harsh Yadav)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by Gopi Kishan)_
 
 </details>
 
@@ -36,9 +38,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
--   GK Bishnoi
+-   Gopi Kishan
+-   Harsh Yadav
+-   Philipp Burckhardt
 
 </section>
 
