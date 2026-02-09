@@ -40,7 +40,7 @@
     "@stdlib/assert-is-nan": "^0.2.3",
     "@stdlib/assert-is-number": "^0.2.3",
     "@stdlib/assert-is-positive-number": "^0.2.3",
-    "@stdlib/stats-base-dists-laplace-cdf": "^0.3.0",
+    "@stdlib/stats-base-dists-laplace-cdf": "^0.3.1",
     "@stdlib/stats-base-dists-laplace-entropy": "^0.3.1",
     "@stdlib/stats-base-dists-laplace-kurtosis": "^0.3.1",
     "@stdlib/stats-base-dists-laplace-logcdf": "^0.3.1",
@@ -65,11 +65,11 @@
     "@stdlib/assert-is-function": "^0.2.3",
     "@stdlib/constants-float64-eps": "^0.2.3",
     "@stdlib/math-base-assert-is-nan": "^0.2.3",
-    "@stdlib/random-array-uniform": "^0.2.1",
+    "@stdlib/random-array-uniform": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0"
