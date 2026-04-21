@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-25)
+## Unreleased (2026-04-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
 -   [`3f8da9f`](https://github.com/stdlib-js/stdlib/commit/3f8da9f06286333269e9065344b495a7d91fffa4) - **bench:** refactor to use string interpolation in `stats/base/dists/laplace` [(#10440)](https://github.com/stdlib-js/stdlib/pull/10440) _(by Vishal Gaikwad)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Vishal Gaikwad
 
 </section>
